@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "34065556396",
+    "firebase_url": "https://testproj-c780b.firebaseio.com",
+    "project_id": "testproj-c780b",
+    "storage_bucket": "testproj-c780b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34065556396:android:50776d25c9a02918",
+        "android_client_info": {
+          "package_name": "com.BGY.wwPro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34065556396-0tcn5fbfsmt0mn6tg5er8vqevgn7adb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6hmo2W4S9yb7OjEOw6T4hxqP8WB6V1Gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
